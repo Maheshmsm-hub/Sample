@@ -3,12 +3,8 @@ name added
 city chennai
 Age 30
 Email: maheshmisc01@gmail.com
-<<<<<<< HEAD
-dsdgdsdgsfds fdsfdsdfs fdsfds fsfdsf sfsdfs fs
-=======
 MYBRANCH - Changes added
 add new
 Edited
 
 ADDDDDDDDDDDDDDDDDDDDD
->>>>>>> 9eff4b31a43cbb4fc775666a4e115c0e1584051a
